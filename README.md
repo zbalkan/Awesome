@@ -275,6 +275,7 @@
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
 - [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][Freeware Icon]
+- [Tempus](https://github.com/KeziahMoselle/tempus) - A simple yet featureful pomodoro in the tray/menu bar. [![Open-Source Software][OSS Icon]](https://github.com/KeziahMoselle/tempus)
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][Freeware Icon]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
