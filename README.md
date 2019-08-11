@@ -303,6 +303,7 @@
 - [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required).  It supports automatic uploads on file changes and incremental hourly backups.
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
 - [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions. ![Freeware][Freeware Icon]
+- [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly. [![Open-Source Software][OSS Icon]](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [Character Map UWP](https://github.com/EdiWang/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support. [![Open-Source Software][OSS Icon]](https://github.com/EdiWang/Character-Map-UWP)
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
