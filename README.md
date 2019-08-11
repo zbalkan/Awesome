@@ -88,14 +88,17 @@
 ### Customization
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][Freeware Icon]
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][OSS Icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][Freeware Icon]
 - [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][Freeware Icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
+- [Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu) - Reborn of Classic Shell (Former [Classic Start](https://github.com/passionate-coder/Classic-Start)) [![Open-Source Software][OSS Icon]](https://github.com/Open-Shell/Open-Shell-Menu)
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][Freeware Icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
+- [SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar. [![Open-Source Software][OSS Icon]](https://github.com/ChanpleCai/SmartTaskbar)
+- [SylphyHorn](https://github.com/Grabacr07/SylphyHorn) - Virtual Desktop Tools for Windows 10. [![Open-Source Software][OSS Icon]](https://github.com/Grabacr07/SylphyHorn)
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background.  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
+- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows 10. [![Open-Source Software][OSS Icon]](https://github.com/t1m0thyj/WinDynamicDesktop) 
 - [ZBar](http://www.zhornsoftware.co.uk/zbar/) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 ### Data Recovery
@@ -213,6 +216,7 @@
 - [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [Notepads](https://github.com/JasonStein/Notepads) - .A modern, stylish text editor with minimum design. (BETA) [![Open-Source Software][OSS Icon]](https://github.com/JasonStein/Notepads) 
 - [Oni](http://onivim.io/) - Modern Modal Editing - powered by Neovim [![Open-Source Software][OSS Icon]](https://github.com/onivim/oni) ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
@@ -299,7 +303,9 @@
 - [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required).  It supports automatic uploads on file changes and incremental hourly backups.
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
 - [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions. ![Freeware][Freeware Icon]
+- [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly. [![Open-Source Software][OSS Icon]](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
+- [Character Map UWP](https://github.com/EdiWang/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support. [![Open-Source Software][OSS Icon]](https://github.com/EdiWang/Character-Map-UWP)
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][Freeware Icon]
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows.[![Open-Source Software][OSS Icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][Freeware Icon]
@@ -318,6 +324,7 @@
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][OSS Icon]](https://github.com/petrroll/PowerSwitcher)
+- [Power Toys](https://github.com/microsoft/PowerToys) - A set of utilities for power users to tune and streamline their Windows experience for greater productivity. [![Open-Source Software][OSS Icon]](https://github.com/microsoft/PowerToys)
 - [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
